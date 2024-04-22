@@ -34,7 +34,7 @@ Contributions are welcome! If you have any suggestions, bug fixes, or new featur
 
 ## Credits
 
-Middle-earth Adventure is created by [Your Name].
+Middle-earth Adventure is created by my chief of staff.
 
 ## License
 
